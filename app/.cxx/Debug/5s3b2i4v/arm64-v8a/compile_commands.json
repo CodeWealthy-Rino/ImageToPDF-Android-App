@@ -1,0 +1,349 @@
+[
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_annotation.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_annotation.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_annotation.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_array.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_array.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_array.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_binary.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_binary.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_binary.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_boolean.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_boolean.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_boolean.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_catalog.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_catalog.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_catalog.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_destination.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_destination.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_destination.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_dict.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_dict.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_dict.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_doc_png.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_doc_png.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_doc_png.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_doc.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_doc.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_doc.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_encoder_cns.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_cns.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_cns.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_encoder_cnt.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_cnt.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_cnt.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_encoder_jp.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_jp.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_jp.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_encoder_kr.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_kr.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_kr.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_encoder.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_encrypt.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encrypt.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encrypt.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_encryptdict.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encryptdict.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encryptdict.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_error.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_error.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_error.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_ext_gstate.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_ext_gstate.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_ext_gstate.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_font_cid.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_font_cid.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_font_cid.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_font_tt.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_font_tt.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_font_tt.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_font_type1.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_font_type1.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_font_type1.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_font.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_font.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_font.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef_base14.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_base14.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_base14.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef_cid.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_cid.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_cid.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef_cns.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_cns.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_cns.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef_cnt.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_cnt.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_cnt.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef_jp.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_jp.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_jp.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef_kr.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_kr.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_kr.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef_tt.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_tt.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_tt.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef_type1.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_type1.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef_type1.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_fontdef.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_fontdef.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_gstate.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_gstate.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_gstate.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_image_ccitt.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_image_ccitt.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_image_ccitt.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_image_png.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_image_png.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_image_png.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_image.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_image.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_image.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_info.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_info.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_info.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_list.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_list.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_list.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_mmgr.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_mmgr.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_mmgr.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_name.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_name.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_name.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_namedict.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_namedict.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_namedict.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_null.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_null.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_null.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_number.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_number.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_number.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_objects.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_objects.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_objects.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_outline.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_outline.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_outline.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_page_label.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_page_label.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_page_label.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_page_operator.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_page_operator.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_page_operator.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_pages.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_pages.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_pages.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_real.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_real.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_real.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_streams.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_streams.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_streams.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_string.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_string.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_string.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_u3d.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_u3d.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_u3d.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_utils.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_utils.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_utils.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_xref.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_xref.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_xref.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_pdfa.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_pdfa.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_pdfa.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_3dmeasure.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_3dmeasure.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_3dmeasure.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_exdata.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_exdata.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_exdata.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/hpdf_encoder_utf.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_utf.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/hpdf_encoder_utf.c"
+},
+
+{
+  "directory": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a",
+  "command": "/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android24 --gcc-toolchain=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kuma/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibharu_jni_EXPORTS -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/./include -I/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/libharu-jni.dir/libharu-jni.c.o   -c /Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/libharu-jni.c",
+  "file": "/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/src/main/cpp/libharu/libharu-jni.c"
+}
+]

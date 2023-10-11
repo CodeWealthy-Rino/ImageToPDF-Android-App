@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">PDF from Images</string>
+    <string name="input_button">Add New PDF</string>
+    <string name="pdfs_label">Created PDF</string>
+    <string name="images_label"> Target Images (Reorder on Tap)</string>
+    <string name="no_image_label">No Images Loaded</string>
+    <string name="no_pdf_label">No PDFs Created</string>
+
+    <string name="alert_dialog_title">Caution</string>
+
+    <string name="file_not_found_message">File not found</string>
+    <string name="internal_error_message">Internal error</string>
+    <string name="duplicated_file_message">Duplicated file</string>
+    <string name="unsupported_format_message">Unsupported format</string>
+    <string name="input_invalid_message">invalid value</string>
+    <string name="unsupported_folder_message">invalid folder</string>
+
+    <string name="size_too_low_message">size too low , must be 50 pixels or greater</string>
+    <string name="size_too_high_message">size too big, must be less than 5000 pixels</string>
+    <string name="file_write_error">Fails to write file</string>
+    <string name="pdf_text">Create PDF</string>
+    <string name="progress_dialog_title">Processing...</string>
+    <string name="progress_dialog_message">Please wait a moment...</string>
+    <string name="cancel_text">Cancel</string>
+
+    <string name="add_date">Add date</string>
+    <string name="add_time">Add time</string>
+    <string name="compression_label">Compression: Low</string>
+    <string name="high_label">High</string>
+    <string name="file_name_label">File name:</string>
+    <string name="complete">Complete</string>
+    <string name="view_send_guide">On tap file name, you can transfer or view PDF in next screen</string>
+    <string name="pdf_complete_message">PDF PDFFILENAME creation complete</string>
+    <string name="reorder_pdf_label">Reorder PDF</string>
+    <string name="reorder_by_date">Creation date</string>
+    <string name="reorder_by_name">Name</string>
+    <string name="reorder_by_size">File Size</string>
+    <string name="move_to_up_label">Up</string>
+    <string name="move_to_down_label">Down</string>
+    <string name="delete_from_list_label">Delete from list</string>
+    <string name="delete_all_from_list_label">Delete all</string>
+
+    <string name="view_label">View</string>
+    <string name="transfer_label">Transfer</string>
+    <string name="delete_label">Delete</string>
+    <string name="delete_all_label">Delete All</string>
+    <string name="change_file_name">Change file name</string>
+
+    <string name="delete_confirm_message">Are you sure to delete? </string>
+    <string name="delete_all_confirm_message">Are you sure to delete all?</string>
+
+    <string name="this_file_already_used">This file name already used</string>
+
+    <string name="input_filename_label">Input file name</string>
+
+    <string name="pdf_description">Tap filename to transfer or view PDF file</string>
+
+    <string name="app_review_dialog">App Review</string>
+    <string name="app_review_dialog_desc">Thank you for using this app. Please review this app.</string>
+
+    <string name="notice">For previous version users</string>
+    <string name="folder_moved_message">PDF save folder is moved to new location, previously saved pdfs are saved at \"PATH\"</string>
+    <string name="donot_show_message_aganin">Do not show this message again</string>
+    <!--
+    Release:  ca-app-pub-2209678087200384/9486714450
+    Test: ca-app-pub-3940256099942544/6300978111
+    -->
+    <string name="add_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

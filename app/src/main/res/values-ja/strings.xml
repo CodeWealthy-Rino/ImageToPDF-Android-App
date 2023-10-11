@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">画像からPDF</string>
+    <string name="input_button">PDFを追加</string>
+    <string name="alert_dialog_title">警告</string>
+    <string name="pdfs_label">作成済みPDF</string>
+    <string name="images_label">対象画像(タップして並び替え)</string>
+    <string name="no_image_label">画像が読み込まれていません</string>
+    <string name="no_pdf_label">作成済みのPDFはありません</string>
+
+    <string name="file_not_found_message">ファイルが見つかりません。</string>
+    <string name="internal_error_message">内部エラー</string>
+    <string name="duplicated_file_message">このファイルは既に読み込まれています。</string>
+    <string name="unsupported_format_message">サポートしていないファイル形式です。</string>
+    <string name="input_invalid_message">設定されたサイズが有効ではありません。</string>
+    <string name="unsupported_folder_message">出力フォルダの画像は指定できません。</string>
+
+    <string name="size_too_low_message">50 pixelsより大きい値を指定してください。</string>
+    <string name="size_too_high_message">5000 pixelsより小さい値を指定してください。</string>
+    <string name="file_write_error">ファイルの書き込みに失敗しました。</string>
+    <string name="pdf_text">PDFを作成</string>
+    <string name="progress_dialog_title">処理中・・・</string>
+    <string name="progress_dialog_message">しばらくお待ち下さい・・・</string>
+    <string name="cancel_text">キャンセル</string>
+
+    <string name="add_date">日付を追加</string>
+    <string name="add_time">時間を追加</string>
+    <string name="compression_label">圧縮率：低</string>
+    <string name="high_label">高</string>
+    <string name="file_name_label">ファイル名:</string>
+    <string name="complete">完了</string>
+    <string name="view_send_guide">次の画面でファイル名のタップで「表示」「転送」ができます</string>
+    <string name="pdf_complete_message">PDF 「PDFFILENAME」の作成が完了しました </string>
+    <string name="reorder_pdf_label">PDFを並び替え</string>
+    <string name="reorder_by_date">作成日時</string>
+    <string name="reorder_by_name">名前</string>
+    <string name="reorder_by_size">ファイルサイズ</string>
+    <string name="move_to_up_label">上に移動</string>
+    <string name="move_to_down_label">下に移動</string>
+    <string name="delete_from_list_label">リストから削除</string>
+    <string name="delete_all_from_list_label">リストから全て削除</string>
+
+
+    <string name="view_label">表示</string>
+    <string name="transfer_label">転送</string>
+    <string name="delete_label">削除</string>
+    <string name="delete_all_label">全て削除</string>
+    <string name="change_file_name">ファイル名を変更</string>
+    <string name="delete_confirm_message">本当に削除しますか? </string>
+    <string name="delete_all_confirm_message">本当に全てを削除しますか?</string>
+
+    <string name="this_file_already_used">このファイル名は既に使われています</string>
+    <string name="input_filename_label">ファイル名を入力してください</string>
+
+    <string name="pdf_description">ファイル名をタップするとPDFファイルを閲覧・転送できます</string>
+
+
+    <string name="app_review_dialog">アプリレビューのお願い</string>
+    <string name="app_review_dialog_desc">本アプリをご利用いただき、ありがとうございます。よろしければアプリのレビューをお願いします。</string>
+
+    <string name="notice">以前のバージョンをお使いのユーザー様へ</string>
+    <string name="folder_moved_message">PDFファイルの保存場所を変更しました。古いファイルは\"PATH\"に保存されています。</string>
+    <string name="donot_show_message_aganin">このメッセージを今後表示しない</string>
+
+</resources>
