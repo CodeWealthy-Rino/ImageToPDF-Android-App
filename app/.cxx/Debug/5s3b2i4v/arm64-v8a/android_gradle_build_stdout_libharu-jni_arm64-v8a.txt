@@ -1,2 +1,0 @@
-ninja: Entering directory `/Users/kuma/Downloads/kumagoma-pdfcreator-3422518d08b6/app/.cxx/Debug/5s3b2i4v/arm64-v8a'
-ninja: no work to do.
