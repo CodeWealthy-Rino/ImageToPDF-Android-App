@@ -18,15 +18,12 @@ This app is utlity to convert image files to PDF
 Please note, this project includes several open source library.
 License information is listed in following file.
 
-
 app/src/main/res/raw/licenseinfo.txt 
 
-MultipleImageSelect library
-
+・MultipleImageSelect library
   app/libs/multipleimageselect/multipleimageselect.aar
 
-libharu
-
+・libharu
   app/src/main/cpp/libharu
   
 
