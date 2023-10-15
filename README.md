@@ -21,9 +21,11 @@ License information is listed in following file.
 app/src/main/res/raw/licenseinfo.txt 
 
 ・MultipleImageSelect library
+
   app/libs/multipleimageselect/multipleimageselect.aar
 
 ・libharu
+  
   app/src/main/cpp/libharu
   
 
