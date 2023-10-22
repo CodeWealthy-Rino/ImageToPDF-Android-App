@@ -1,4 +1,5 @@
 # ImageToPDF-Android-App
+画像からPDFを作成するシンプルなAndroidアプリ
 Converting Image to PDF Utility
 
 
@@ -26,4 +27,8 @@ app/src/main/res/raw/licenseinfo.txt
   
   app/src/main/cpp/libharu
   
+
+## License
+
+This software  is licensed under MIT License.
 
