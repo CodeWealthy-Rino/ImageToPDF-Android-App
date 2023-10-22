@@ -14,6 +14,8 @@ This app is utlity to convert image files to PDF
 Please note, this project includes several open source library.
 License information is listed in following file.
 
+このプロジェクトはいくつかのオープンソースライブラリを含んでおり、これらについては当方の著作物ではありません。
+
 app/src/main/res/raw/licenseinfo.txt 
 
 ・MultipleImageSelect library
