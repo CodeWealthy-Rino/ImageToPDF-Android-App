@@ -3,6 +3,8 @@
 
 Converting Image to PDF Utility
 
+<a href='https://play.google.com/store/apps/details?id=com.kumazaku.pdfcreator2&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png'/></a>
+
 
 # About This App
 This app is utlity to convert image files to PDF
